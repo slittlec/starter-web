@@ -8,3 +8,4 @@ adding a line for rebase, more changes from feature branch
 Sample website with plenty of files for demos
 
 ### Copyright
+all rights reserved
